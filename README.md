@@ -3,8 +3,6 @@
 <h3 align="center">QA engineer from Russia</h3>
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,postgres,js)](https://skills.thijs.gg)
-
 <!--
 **Kivanzhi/Kivanzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
