@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA engineer from Russia </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&background=FFE11100&center=true&lines=QA+engineer+from+Russia+)](https://git.io/typing-svg)
 
 <!--
 **Kivanzhi/Kivanzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
